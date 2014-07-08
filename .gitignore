@@ -8,4 +8,5 @@ nbproject
 .settings
 composer.lock
 vendor/bin
+vendor
 data/roave_developer_tools
