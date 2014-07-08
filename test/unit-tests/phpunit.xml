@@ -3,7 +3,7 @@
 <phpunit bootstrap="Bootstrap.php" colors="true">
     <testsuites>
         <testsuite name="zf2tutorial">
-            <directory>./ApplicationTestFoo</directory>
+            <directory>../../module/Application/test/ApplicationTest</directory>
         </testsuite>
     </testsuites>
 </phpunit>
